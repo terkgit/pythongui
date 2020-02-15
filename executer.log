@@ -1,0 +1,106 @@
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:/Users/Terkel/Documents/Baldur's Gate - Enhanced Edition
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+Traceback (most recent call last):
+  File "C:\Projects\pythongui\executestergui.py", line 33, in <module>
+    event, values = window.read()
+  File "C:\Users\Terkel\AppData\Local\Programs\Python\Python37-32\lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 5862, in
+Read
+    self._Show()
+  File "C:\Users\Terkel\AppData\Local\Programs\Python\Python37-32\lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 5730, in
+_Show
+    StartupTK(self)
+  File "C:\Users\Terkel\AppData\Local\Programs\Python\Python37-32\lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 9506, in
+StartupTK
+    ConvertFlexToTK(my_flex_form)
+  File "C:\Users\Terkel\AppData\Local\Programs\Python\Python37-32\lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 9408, in
+ConvertFlexToTK
+    PackFormIntoFrame(MyFlexForm, master, MyFlexForm)
+  File "C:\Users\Terkel\AppData\Local\Programs\Python\Python37-32\lib\site-packages\PySimpleGUI\PySimpleGUI.py", line 8419, in
+PackFormIntoFrame
+    element.TKEntry = element.Widget = tk.Entry(tk_row_frame, width=element_size[0],
+TypeError: 'int' object is not subscriptable
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:/Users/Terkel/Documents/Baldur's Gate - Enhanced Edition/portraits
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:/Users/Terkel/Documents/Baldur's Gate - Enhanced Edition/bpsave
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+Traceback (most recent call last):
+  File "C:\Projects\pythongui\executestergui.py", line 37, in <module>
+    logging.debug("executer_dir="+executer_dir)
+TypeError: can only concatenate str (not "NoneType") to str
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:/Projects/pythongui
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+Traceback (most recent call last):
+  File "C:\Projects\pythongui\executestergui.py", line 40, in <module>
+    values['console']=log_str
+TypeError: 'NoneType' object does not support item assignment
+
+C:\Projects\pythongui>executestergui.py
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
+INFO: Go clicked...
+DEBUG: executer_dir=C:\Projects\pythongui
